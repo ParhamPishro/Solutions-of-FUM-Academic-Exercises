@@ -1,6 +1,6 @@
 # Solutions-of-FUM-Academic-Exercises
 
-- Deep Learning (DL) has started.
+- Deep Learning (DL) is done.
 - Machine Learning (ML) has started.
 - Computational Intelligence (CI) has started.
 - Advanced Nonlinear Optimization (ANO) is done.
