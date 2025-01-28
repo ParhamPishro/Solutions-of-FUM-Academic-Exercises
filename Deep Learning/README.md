@@ -8,7 +8,7 @@ The codes of this section include:
 + Generate Persian Sudoku
 + Convolution 1D
 + Solve a Math Puzzle using Auto Gradient
-+ N Rook Problem using Pytorch
++ N-Rook Problem using Pytorch
 + Convolution 2D
 + Gan with Pytorch
 + Generate Tom Bitmoji using Conditional DCGAN
